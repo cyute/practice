@@ -1,0 +1,3 @@
+spring.output.ansi.enabled: ALWAYS
+name: Phil
+sample.name: Andy
